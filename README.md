@@ -18,15 +18,29 @@ Backend: Node.js, Express, MongoDB, JWT
 
 Other: Git, GitHub, REST APIs, Axios, MVC Architecture, Web Deployment (Vercel)
 
-**Rohith-S-07/Rohith-S-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📂 Projects
+1. Recipe Radar
+A full-stack web app for discovering and managing recipes, with features like category-wise searching, nutritional information, and user ratings.
 
-Here are some ideas to get you started:
+Tech Stack: React, Node.js, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Repository Link
+
+2. LOGIN Website
+A student registration and participation system for a technical intercollegiate symposium, including team and solo registrations for events.
+
+Tech Stack: React, Node.js, MongoDB
+
+Repository Link
+
+⚡ Fun Facts
+I'm an avid player of Clash of Clans (Town Hall 17).
+
+I love playing badminton and table tennis.
+
+I’m from Salem, Tamil Nadu, which is famous for its mangoes!
+
+📫 How to reach me
+Email: rohithskr01@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/rohith-s07/
