@@ -8,9 +8,19 @@ Welcome to my GitHub profile! I'm a web developer with a strong foundation in **
 - 💬 Feel free to reach out to me if you're interested in collaborating or if you have any questions related to web development or tech!
 
 ## 💼 Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** Node.js, Express, MongoDB, JWT
-- **Other:** Git, GitHub, RESTful APIs, Axios, MVC Architecture, Web Deployment (Vercel)
+<p align="center">
+  <img src="/Technology_Logos/html5.png" alt="HTML" height="100"/>
+  <img src="/Technology_Logos/css3.png" alt="CSS" height="100"/>
+  <img src="/Technology_Logos/bootstrap.png" alt="Bootstrap" height="100"/>
+  <img src="/Technology_Logos/tailwind.png" alt="Tailwind CSS" height="100"/>
+  <img src="/Technology_Logos/javascript.png" alt="JavaScript" height="100"/>
+  <img src="/Technology_Logos/react.png" alt="React.js" height="100"/>
+  <br />
+  <img src="/Technology_Logos/nextjs.png" alt="Next.JS" height="100"/>
+  <img src="/Technology_Logos/nodejs.png" alt="Node.js" height="100"/>
+  <img src="/Technology_Logos/mongodb.png" alt="Mongo DB" height="100"/>
+</p>
+- **Other:** Git, GitHub, JWT, RESTful APIs, Axios, MVC Architecture, Web Deployment (Vercel)
 
 ## 📂 Featured Projects
 
