@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm a web developer with a strong foundation in **
   <img src="/Technology_Logos/nodejs.png" alt="Node.js" height="100"/>
   <img src="/Technology_Logos/mongodb.png" alt="Mongo DB" height="100"/>
 </p>
-- **Other:** Git, GitHub, JWT, RESTful APIs, Axios, MVC Architecture, Web Deployment (Vercel)
+
+**Other:** Git, GitHub, JWT, RESTful APIs, Axios, MVC Architecture, Web Deployment (Vercel)
 
 ## 📂 Featured Projects
 
